@@ -68,6 +68,6 @@ printf(" mentre la somma e' %d e il valore assoluto maggiore e' %d",SOMMA,S_ASSO
 return 0;
 
 }
-//il dado è tratto
+//maow
 
 
